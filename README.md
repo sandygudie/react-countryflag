@@ -26,7 +26,7 @@ import { CountryFlag } from 'react-countryname-flag'
 
 <CountryFlag countryName={'Afghanistan'} style={{ fontSize: '20px' }} />
 
-🇦🇫
+  🇦🇫
 
 ```
 <br/>
