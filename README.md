@@ -19,46 +19,47 @@ yarn add -D react-countryname-flag
 
 ## Usage :
 
-#### Get country flag from country name
+- #### Get country flag from country name
 
 ```js
 import { CountryFlag } from 'react-countryname-flag'
 
 <CountryFlag countryName={'Afghanistan'} style={{ fontSize: '10px' }} />
 
+  🇦🇫
 ```
-
 <br/>
 
-#### Get country flag from country code
+- #### Get country flag from country code
 
 ```js
 import { CountryFlag } from 'react-countryname-flag'
 
 <CountryFlag countryCode={'AG'} />
 
+  🇦🇬
 ```
-
 <br/>
 
-#### Get country code from country name
+- #### Get country code from country name
 
 ```js
 import { CountryCode } from 'react-countryname-flag'
 
 <CountryCode countryName={'Afghanistan'} />
 
+  // AF
 ```
-
 <br/>
 
-#### Get country name from country code
+- #### Get country name from country code
 
 ```js
 import { CountryName } from 'react-countryname-flag'
 
 <CountryName countryCode={'AG'} />
 
+  // Antigua and Barbuda
 ```
 
 [npm-url]: https://www.npmjs.com/package/my-react-typescript-package
