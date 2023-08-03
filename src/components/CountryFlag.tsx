@@ -2,23 +2,24 @@ import React from 'react'
 import { countries } from '../country'
 
 interface Props {
-  countryName: string
+  countryName?: string
   countryCode?: string
+  style?: React.CSSProperties
 }
-function CountryFlag({ countryName, countryCode }: Props) {
+function CountryFlag({ countryName, countryCode, style, ...props }: Props) {
   return (
-    <div>
+    <>
       {countries.map((country) =>
         country.countryNameEn === countryName || country.countryCode === countryCode ? (
-          <p key={country.countryNameEn}>{country.flag}</p>
+          <span key={country.countryNameEn} {...props} style={{ ...style }} role='img'>
+            {country.flag}
+          </span>
         ) : (
           ''
         ),
       )}
-    </div>
+    </>
   )
 }
 
 export default CountryFlag
-
-// country name from country code and vice versa

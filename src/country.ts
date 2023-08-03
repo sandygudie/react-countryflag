@@ -5,8 +5,7 @@ export const countries = [
     countryCode: 'AD',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '376',
     region: 'Europe',
     flag: '🇦🇩',
@@ -17,8 +16,7 @@ export const countries = [
     countryCode: 'AF',
     currencyCode: 'AFN',
     currencyNameEn: 'Afghan afghani',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '93',
     region: 'Asia & Pacific',
     flag: '🇦🇫',
@@ -29,8 +27,7 @@ export const countries = [
     countryCode: 'AG',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1268',
     region: 'South/Latin America',
     flag: '🇦🇬',
@@ -41,8 +38,7 @@ export const countries = [
     countryCode: 'AI',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1264',
     region: 'South/Latin America',
     flag: '🇦🇮',
@@ -65,8 +61,7 @@ export const countries = [
     countryCode: 'AM',
     currencyCode: 'AMD',
     currencyNameEn: 'Armenian dram',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '374',
     region: 'Europe',
     flag: '🇦🇲',
@@ -77,8 +72,7 @@ export const countries = [
     countryCode: 'AO',
     currencyCode: 'AOA',
     currencyNameEn: 'Angolan kwanza',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '244',
     region: 'Africa',
     flag: '🇦🇴',
@@ -89,8 +83,7 @@ export const countries = [
     countryCode: 'AQ',
     currencyCode: '',
     currencyNameEn: '',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '672',
     region: 'Asia & Pacific',
     flag: '🇦🇶',
@@ -113,8 +106,7 @@ export const countries = [
     countryCode: 'AS',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1684',
     region: 'Asia & Pacific',
     flag: '🇦🇸',
@@ -149,8 +141,7 @@ export const countries = [
     countryCode: 'AW',
     currencyCode: 'AWG',
     currencyNameEn: 'Aruban florin',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '297',
     region: 'South/Latin America',
     flag: '🇦🇼',
@@ -161,8 +152,7 @@ export const countries = [
     countryCode: 'AX',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '358',
     region: 'Europe',
     flag: '🇦🇽',
@@ -173,8 +163,7 @@ export const countries = [
     countryCode: 'AZ',
     currencyCode: 'AZN',
     currencyNameEn: 'Azerbaijani manat',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '994',
     region: 'Asia & Pacific',
     flag: '🇦🇿',
@@ -185,8 +174,7 @@ export const countries = [
     countryCode: 'BA',
     currencyCode: 'BAM',
     currencyNameEn: 'Bosnia and Herzegovina convertible mark',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '387',
     region: 'Europe',
     flag: '🇧🇦',
@@ -197,8 +185,7 @@ export const countries = [
     countryCode: 'BB',
     currencyCode: 'BBD',
     currencyNameEn: 'Barbados dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1246',
     region: 'South/Latin America',
     flag: '🇧🇧',
@@ -209,8 +196,7 @@ export const countries = [
     countryCode: 'BD',
     currencyCode: 'BDT',
     currencyNameEn: 'Bangladeshi taka',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '880',
     region: 'Asia & Pacific',
     flag: '🇧🇩',
@@ -233,8 +219,7 @@ export const countries = [
     countryCode: 'BF',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '226',
     region: 'Africa',
     flag: '🇧🇫',
@@ -257,8 +242,7 @@ export const countries = [
     countryCode: 'BH',
     currencyCode: 'BHD',
     currencyNameEn: 'Bahraini dinar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '973',
     region: 'Arab States',
     flag: '🇧🇭',
@@ -269,8 +253,6 @@ export const countries = [
     countryCode: 'BI',
     currencyCode: 'BIF',
     currencyNameEn: 'Burundian franc',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '257',
     region: 'Africa',
@@ -282,8 +264,6 @@ export const countries = [
     countryCode: 'BJ',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '229',
     region: 'Africa',
@@ -295,8 +275,6 @@ export const countries = [
     countryCode: 'BL',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '590',
     region: 'South/Latin America',
@@ -308,8 +286,7 @@ export const countries = [
     countryCode: 'BM',
     currencyCode: 'BMD',
     currencyNameEn: 'Bermudian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1441',
     region: 'North America',
     flag: '🇧🇲',
@@ -320,8 +297,7 @@ export const countries = [
     countryCode: 'BN',
     currencyCode: 'BND',
     currencyNameEn: 'Brunei dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '673',
     region: 'Asia & Pacific',
     flag: '🇧🇳',
@@ -344,8 +320,7 @@ export const countries = [
     countryCode: 'BQ',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '5997',
     region: 'Unknown',
     flag: '🇧🇶',
@@ -368,8 +343,7 @@ export const countries = [
     countryCode: 'BT',
     currencyCode: 'BTN',
     currencyNameEn: 'Bhutanese ngultrum',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '975',
     region: 'Asia & Pacific',
     flag: '🇧🇹',
@@ -380,8 +354,7 @@ export const countries = [
     countryCode: 'BV',
     currencyCode: 'NOK',
     currencyNameEn: 'Norwegian krone',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '47',
     region: 'South/Latin America',
     flag: '🇧🇻',
@@ -392,8 +365,7 @@ export const countries = [
     countryCode: 'BW',
     currencyCode: 'BWP',
     currencyNameEn: 'Botswana pula',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '267',
     region: 'Africa',
     flag: '🇧🇼',
@@ -416,8 +388,7 @@ export const countries = [
     countryCode: 'BZ',
     currencyCode: 'BZD',
     currencyNameEn: 'Belize dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '501',
     region: 'South/Latin America',
     flag: '🇧🇿',
@@ -452,8 +423,6 @@ export const countries = [
     countryCode: 'CI',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '225',
     region: 'Africa',
@@ -478,8 +447,6 @@ export const countries = [
     countryCode: 'CM',
     currencyCode: 'XAF',
     currencyNameEn: 'CFA franc BEAC',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '237',
     region: 'Africa',
@@ -491,8 +458,6 @@ export const countries = [
     countryCode: 'CN',
     currencyCode: 'CNY',
     currencyNameEn: 'Renminbi (Chinese) yuan',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '86',
     region: 'Asia & Pacific',
@@ -517,7 +482,7 @@ export const countries = [
     countryCode: 'CR',
     currencyCode: 'CRC',
     currencyNameEn: 'Costa Rican colon',
-    tinType: '',
+
     tinName: 'Cédula Jurídica',
 
     countryCallingCode: '506',
@@ -530,8 +495,6 @@ export const countries = [
     countryCode: 'CU',
     currencyCode: 'CUC',
     currencyNameEn: 'Cuban convertible peso',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '53',
     region: 'South/Latin America',
@@ -543,8 +506,6 @@ export const countries = [
     countryCode: 'CV',
     currencyCode: 'CVE',
     currencyNameEn: 'Cape Verdean escudo',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '238',
     region: 'Africa',
@@ -556,8 +517,6 @@ export const countries = [
     countryCode: 'CW',
     currencyCode: 'ANG',
     currencyNameEn: 'Netherlands Antillean guilder',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '599',
     region: 'Unknown',
@@ -569,8 +528,7 @@ export const countries = [
     countryCode: 'CX',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '61',
     region: 'Asia & Pacific',
     flag: '🇨🇽',
@@ -607,8 +565,6 @@ export const countries = [
     countryCode: 'DJ',
     currencyCode: 'DJF',
     currencyNameEn: 'Djiboutian franc',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '253',
     region: 'Arab States',
@@ -633,8 +589,7 @@ export const countries = [
     countryCode: 'DM',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '767',
     region: 'South/Latin America',
     flag: '🇩🇲',
@@ -645,8 +600,6 @@ export const countries = [
     countryCode: 'DZ',
     currencyCode: 'DZD',
     currencyNameEn: 'Algerian dinar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '213',
     region: 'Arab States',
@@ -683,8 +636,6 @@ export const countries = [
     countryCode: 'EG',
     currencyCode: 'EGP',
     currencyNameEn: 'Egyptian pound',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '20',
     region: 'Arab States',
@@ -696,8 +647,6 @@ export const countries = [
     countryCode: 'EH',
     currencyCode: 'MAD',
     currencyNameEn: 'Moroccan dirham',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '212',
     region: 'Africa',
@@ -709,8 +658,7 @@ export const countries = [
     countryCode: 'ER',
     currencyCode: 'ERN',
     currencyNameEn: 'Eritrean nakfa',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '291',
     region: 'Africa',
     flag: '🇪🇷',
@@ -733,8 +681,7 @@ export const countries = [
     countryCode: 'ET',
     currencyCode: 'ETB',
     currencyNameEn: 'Ethiopian birr',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '251',
     region: 'Africa',
     flag: '🇪🇹',
@@ -757,8 +704,7 @@ export const countries = [
     countryCode: 'FJ',
     currencyCode: 'FJD',
     currencyNameEn: 'Fiji dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '679',
     region: 'Asia & Pacific',
     flag: '🇫🇯',
@@ -769,8 +715,7 @@ export const countries = [
     countryCode: 'FM',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '691',
     region: 'Asia & Pacific',
     flag: '🇫🇲',
@@ -793,8 +738,7 @@ export const countries = [
     countryCode: 'GA',
     currencyCode: 'XAF',
     currencyNameEn: 'CFA franc BEAC',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '241',
     region: 'Africa',
     flag: '🇬🇦',
@@ -805,8 +749,7 @@ export const countries = [
     countryCode: 'GD',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1473',
     region: 'South/Latin America',
     flag: '🇬🇩',
@@ -817,8 +760,7 @@ export const countries = [
     countryCode: 'GE',
     currencyCode: 'GEL',
     currencyNameEn: 'Georgian lari',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '995',
     region: 'Europe',
     flag: '🇬🇪',
@@ -829,8 +771,7 @@ export const countries = [
     countryCode: 'GF',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '594',
     region: 'South/Latin America',
     flag: '🇬🇫',
@@ -841,8 +782,7 @@ export const countries = [
     countryCode: 'GG',
     currencyCode: 'GBP',
     currencyNameEn: 'Pound sterling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '44',
     region: 'Europe',
     flag: '🇬🇬',
@@ -853,8 +793,7 @@ export const countries = [
     countryCode: 'GH',
     currencyCode: 'GHS',
     currencyNameEn: 'Ghanaian cedi',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '233',
     region: 'Africa',
     flag: '🇬🇭',
@@ -865,8 +804,7 @@ export const countries = [
     countryCode: 'GI',
     currencyCode: 'GIP',
     currencyNameEn: 'Gibraltar pound',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '350',
     region: 'Europe',
     flag: '🇬🇮',
@@ -877,8 +815,7 @@ export const countries = [
     countryCode: 'GL',
     currencyCode: 'DKK',
     currencyNameEn: 'Danish krone',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '299',
     region: 'Europe',
     flag: '🇬🇱',
@@ -889,8 +826,6 @@ export const countries = [
     countryCode: 'GN',
     currencyCode: 'GNF',
     currencyNameEn: 'Guinean franc',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '224',
     region: 'Africa',
@@ -902,8 +837,6 @@ export const countries = [
     countryCode: 'GP',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '590',
     region: 'South/Latin America',
@@ -915,8 +848,6 @@ export const countries = [
     countryCode: 'GQ',
     currencyCode: 'XAF',
     currencyNameEn: 'CFA franc BEAC',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '240',
     region: 'Africa',
@@ -928,8 +859,6 @@ export const countries = [
     countryCode: 'GR',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '30',
     region: 'Europe',
@@ -941,8 +870,7 @@ export const countries = [
     countryCode: 'GS',
     currencyCode: '',
     currencyNameEn: '',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '500',
     region: 'South/Latin America',
     flag: '🇬🇸',
@@ -966,8 +894,7 @@ export const countries = [
     countryCode: 'GU',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1',
     region: 'Asia & Pacific',
     flag: '🇬🇺',
@@ -978,8 +905,6 @@ export const countries = [
     countryCode: 'GW',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '245',
     region: 'Africa',
@@ -991,8 +916,7 @@ export const countries = [
     countryCode: 'GY',
     currencyCode: 'GYD',
     currencyNameEn: 'Guyanese dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '592',
     region: 'South/Latin America',
     flag: '🇬🇾',
@@ -1003,8 +927,7 @@ export const countries = [
     countryCode: 'HK',
     currencyCode: 'HKD',
     currencyNameEn: 'Hong Kong dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '852',
     region: 'Asia & Pacific',
     flag: '🇭🇰',
@@ -1040,8 +963,6 @@ export const countries = [
     countryCode: 'HT',
     currencyCode: 'HTG',
     currencyNameEn: 'Haitian gourde',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '509',
     region: 'South/Latin America',
@@ -1089,7 +1010,7 @@ export const countries = [
     countryCode: 'IL',
     currencyCode: 'ILS',
     currencyNameEn: 'Israeli new shekel',
-    tinType: '',
+
     tinName: 'מס\' עוסק מורשה / ח"פ',
     countryCallingCode: '972',
     region: 'Europe',
@@ -1101,8 +1022,7 @@ export const countries = [
     countryCode: 'IM',
     currencyCode: 'GBP',
     currencyNameEn: 'Pound sterling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '44',
     region: 'Europe',
     flag: '🇮🇲',
@@ -1126,8 +1046,6 @@ export const countries = [
     countryCode: 'IQ',
     currencyCode: 'IQD',
     currencyNameEn: 'Iraqi dinar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '964',
     region: 'Arab States',
@@ -1139,8 +1057,7 @@ export const countries = [
     countryCode: 'IR',
     currencyCode: 'IRR',
     currencyNameEn: 'Iranian rial',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '98',
     region: 'Asia & Pacific',
     flag: '🇮🇷',
@@ -1176,8 +1093,7 @@ export const countries = [
     countryCode: 'JE',
     currencyCode: 'GBP',
     currencyNameEn: 'Pound sterling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '44',
     region: 'Europe',
     flag: '🇯🇪',
@@ -1188,8 +1104,7 @@ export const countries = [
     countryCode: 'JM',
     currencyCode: 'JMD',
     currencyNameEn: 'Jamaican dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '876',
     region: 'South/Latin America',
     flag: '🇯🇲',
@@ -1200,8 +1115,6 @@ export const countries = [
     countryCode: 'JO',
     currencyCode: 'JOD',
     currencyNameEn: 'Jordanian dinar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '962',
     region: 'Arab States',
@@ -1213,8 +1126,7 @@ export const countries = [
     countryCode: 'JP',
     currencyCode: 'JPY',
     currencyNameEn: 'Japanese yen',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '81',
     region: 'Asia & Pacific',
     flag: '🇯🇵',
@@ -1225,8 +1137,7 @@ export const countries = [
     countryCode: 'KE',
     currencyCode: 'KES',
     currencyNameEn: 'Kenyan shilling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '254',
     region: 'Africa',
     flag: '🇰🇪',
@@ -1237,8 +1148,7 @@ export const countries = [
     countryCode: 'KG',
     currencyCode: 'KGS',
     currencyNameEn: 'Kyrgyzstani som',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '996',
     region: 'Asia & Pacific',
     flag: '🇰🇬',
@@ -1249,8 +1159,7 @@ export const countries = [
     countryCode: 'KH',
     currencyCode: 'KHR',
     currencyNameEn: 'Cambodian riel',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '855',
     region: 'Asia & Pacific',
     flag: '🇰🇭',
@@ -1261,8 +1170,7 @@ export const countries = [
     countryCode: 'KP',
     currencyCode: 'KPW',
     currencyNameEn: 'North Korean won',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '850',
     region: 'Asia',
     flag: '🇰🇵',
@@ -1273,8 +1181,7 @@ export const countries = [
     countryCode: 'KR',
     currencyCode: 'KRW',
     currencyNameEn: 'South Korean won',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '82',
     region: 'Asia',
     flag: '🇰🇷',
@@ -1285,8 +1192,7 @@ export const countries = [
     countryCode: 'KI',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '686',
     region: 'Asia & Pacific',
     flag: '🇰🇮',
@@ -1297,8 +1203,7 @@ export const countries = [
     countryCode: 'KN',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1869',
     region: 'South/Latin America',
     flag: '🇰🇳',
@@ -1309,8 +1214,6 @@ export const countries = [
     countryCode: 'KW',
     currencyCode: 'KWD',
     currencyNameEn: 'Kuwaiti dinar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '965',
     region: 'Arab States',
@@ -1322,8 +1225,7 @@ export const countries = [
     countryCode: 'KZ',
     currencyCode: 'KZT',
     currencyNameEn: 'Kazakhstani tenge',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '7',
     region: 'Asia & Pacific',
     flag: '🇰🇿',
@@ -1334,8 +1236,6 @@ export const countries = [
     countryCode: 'LB',
     currencyCode: 'LBP',
     currencyNameEn: 'Lebanese pound',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '961',
     region: 'Arab States',
@@ -1347,8 +1247,7 @@ export const countries = [
     countryCode: 'LC',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1758',
     region: 'South/Latin America',
     flag: '🇱🇨',
@@ -1359,8 +1258,6 @@ export const countries = [
     countryCode: 'LI',
     currencyCode: 'CHF',
     currencyNameEn: 'Swiss franc',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '423',
     region: 'Europe',
@@ -1372,8 +1269,7 @@ export const countries = [
     countryCode: 'LK',
     currencyCode: 'LKR',
     currencyNameEn: 'Sri Lankan rupee',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '94',
     region: 'Asia & Pacific',
     flag: '🇱🇰',
@@ -1384,8 +1280,7 @@ export const countries = [
     countryCode: 'LR',
     currencyCode: 'LRD',
     currencyNameEn: 'Liberian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '231',
     region: 'Africa',
     flag: '🇱🇷',
@@ -1396,8 +1291,7 @@ export const countries = [
     countryCode: 'LS',
     currencyCode: 'LSL',
     currencyNameEn: 'Lesotho loti',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '266',
     region: 'Africa',
     flag: '🇱🇸',
@@ -1444,8 +1338,6 @@ export const countries = [
     countryCode: 'LY',
     currencyCode: 'LYD',
     currencyNameEn: 'Libyan dinar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '218',
     region: 'Arab States',
@@ -1457,8 +1349,6 @@ export const countries = [
     countryCode: 'MA',
     currencyCode: 'MAD',
     currencyNameEn: 'Moroccan dirham',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '212',
     region: 'Arab States',
@@ -1470,8 +1360,6 @@ export const countries = [
     countryCode: 'MC',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '377',
     region: 'Europe',
@@ -1483,8 +1371,7 @@ export const countries = [
     countryCode: 'ME',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '382',
     region: 'Europe',
     flag: '🇲🇪',
@@ -1495,8 +1382,6 @@ export const countries = [
     countryCode: 'MF',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '590',
     region: 'South/Latin America',
@@ -1508,8 +1393,7 @@ export const countries = [
     countryCode: 'MG',
     currencyCode: 'MGA',
     currencyNameEn: 'Malagasy ariary',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '261',
     region: 'Africa',
     flag: '🇲🇬',
@@ -1520,8 +1404,6 @@ export const countries = [
     countryCode: 'ML',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '223',
     region: 'Africa',
@@ -1533,8 +1415,7 @@ export const countries = [
     countryCode: 'MM',
     currencyCode: 'MMK',
     currencyNameEn: 'Myanmar kyat',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '95',
     region: 'Asia & Pacific',
     flag: '🇲🇲',
@@ -1545,8 +1426,7 @@ export const countries = [
     countryCode: 'MN',
     currencyCode: 'MNT',
     currencyNameEn: 'Mongolian tögrög',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '976',
     region: 'Asia & Pacific',
     flag: '🇲🇳',
@@ -1557,8 +1437,7 @@ export const countries = [
     countryCode: 'MO',
     currencyCode: 'MOP',
     currencyNameEn: 'Macanese pataca',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '853',
     region: 'Asia & Pacific',
     flag: '🇲🇴',
@@ -1569,8 +1448,6 @@ export const countries = [
     countryCode: 'MQ',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '596',
     region: 'South/Latin America',
@@ -1582,8 +1459,6 @@ export const countries = [
     countryCode: 'MR',
     currencyCode: 'MRU',
     currencyNameEn: '',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '222',
     region: 'Arab States',
@@ -1595,8 +1470,7 @@ export const countries = [
     countryCode: 'MS',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1664',
     region: 'South/Latin America',
     flag: '🇲🇸',
@@ -1619,8 +1493,7 @@ export const countries = [
     countryCode: 'MU',
     currencyCode: 'MUR',
     currencyNameEn: 'Mauritian rupee',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '230',
     region: 'Africa',
     flag: '🇲🇺',
@@ -1631,8 +1504,7 @@ export const countries = [
     countryCode: 'MV',
     currencyCode: 'MVR',
     currencyNameEn: 'Maldivian rufiyaa',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '960',
     region: 'Asia & Pacific',
     flag: '🇲🇻',
@@ -1643,8 +1515,7 @@ export const countries = [
     countryCode: 'MW',
     currencyCode: 'MWK',
     currencyNameEn: 'Malawian kwacha',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '265',
     region: 'Africa',
     flag: '🇲🇼',
@@ -1668,8 +1539,7 @@ export const countries = [
     countryCode: 'MY',
     currencyCode: 'MYR',
     currencyNameEn: 'Malaysian ringgit',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '60',
     region: 'Asia & Pacific',
     flag: '🇲🇾',
@@ -1680,8 +1550,6 @@ export const countries = [
     countryCode: 'MZ',
     currencyCode: 'MZN',
     currencyNameEn: 'Mozambican metical',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '258',
     region: 'Africa',
@@ -1693,8 +1561,7 @@ export const countries = [
     countryCode: 'NA',
     currencyCode: 'NAD',
     currencyNameEn: 'Namibian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '264',
     region: 'Africa',
     flag: '🇳🇦',
@@ -1705,8 +1572,6 @@ export const countries = [
     countryCode: 'NC',
     currencyCode: 'XPF',
     currencyNameEn: 'CFP franc (franc Pacifique)',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '687',
     region: 'Asia & Pacific',
@@ -1718,8 +1583,7 @@ export const countries = [
     countryCode: 'NF',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '672',
     region: 'Asia & Pacific',
     flag: '🇳🇫',
@@ -1730,8 +1594,7 @@ export const countries = [
     countryCode: 'NG',
     currencyCode: 'NGN',
     currencyNameEn: 'Nigerian naira',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '234',
     region: 'Africa',
     flag: '🇳🇬',
@@ -1767,8 +1630,7 @@ export const countries = [
     countryCode: 'NP',
     currencyCode: 'NPR',
     currencyNameEn: 'Nepalese rupee',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '977',
     region: 'Asia & Pacific',
     flag: '🇳🇵',
@@ -1779,8 +1641,7 @@ export const countries = [
     countryCode: 'NR',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '674',
     region: 'Asia & Pacific',
     flag: '🇳🇷',
@@ -1791,8 +1652,7 @@ export const countries = [
     countryCode: 'NU',
     currencyCode: 'NZD',
     currencyNameEn: 'New Zealand dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '683',
     region: 'Asia & Pacific',
     flag: '🇳🇺',
@@ -1815,8 +1675,6 @@ export const countries = [
     countryCode: 'OM',
     currencyCode: 'OMR',
     currencyNameEn: 'Omani rial',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '968',
     region: 'Arab States',
@@ -1854,8 +1712,6 @@ export const countries = [
     countryCode: 'PF',
     currencyCode: 'XPF',
     currencyNameEn: 'CFP franc (franc Pacifique)',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '689',
     region: 'Asia & Pacific',
@@ -1867,8 +1723,7 @@ export const countries = [
     countryCode: 'PG',
     currencyCode: 'PGK',
     currencyNameEn: 'Papua New Guinean kina',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '675',
     region: 'Asia & Pacific',
     flag: '🇵🇬',
@@ -1879,8 +1734,7 @@ export const countries = [
     countryCode: 'PK',
     currencyCode: 'PKR',
     currencyNameEn: 'Pakistani rupee',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '92',
     region: 'Asia & Pacific',
     flag: '🇵🇰',
@@ -1903,8 +1757,6 @@ export const countries = [
     countryCode: 'PM',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '508',
     region: 'North America',
@@ -1916,8 +1768,7 @@ export const countries = [
     countryCode: 'PN',
     currencyCode: 'NZD',
     currencyNameEn: 'New Zealand dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '64',
     region: 'Asia & Pacific',
     flag: '🇵🇳',
@@ -1928,8 +1779,6 @@ export const countries = [
     countryCode: 'PR',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '1',
     region: 'South/Latin America',
@@ -1941,8 +1790,6 @@ export const countries = [
     countryCode: 'PS',
     currencyCode: '',
     currencyNameEn: '',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '970',
     region: 'Arab States',
@@ -1967,8 +1814,7 @@ export const countries = [
     countryCode: 'PW',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '680',
     region: 'Asia & Pacific',
     flag: '🇵🇼',
@@ -1992,8 +1838,6 @@ export const countries = [
     countryCode: 'QA',
     currencyCode: 'QAR',
     currencyNameEn: 'Qatari riyal',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '974',
     region: 'Arab States',
@@ -2005,8 +1849,6 @@ export const countries = [
     countryCode: 'RE',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '262',
     region: 'Asia & Pacific',
@@ -2054,8 +1896,7 @@ export const countries = [
     countryCode: 'RW',
     currencyCode: 'RWF',
     currencyNameEn: 'Rwandan franc',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '250',
     region: 'Africa',
     flag: '🇷🇼',
@@ -2066,8 +1907,6 @@ export const countries = [
     countryCode: 'SA',
     currencyCode: 'SAR',
     currencyNameEn: 'Saudi riyal',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '966',
     region: 'Arab States',
@@ -2079,8 +1918,7 @@ export const countries = [
     countryCode: 'SB',
     currencyCode: 'SBD',
     currencyNameEn: 'Solomon Islands dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '677',
     region: 'Asia & Pacific',
     flag: '🇸🇧',
@@ -2091,8 +1929,6 @@ export const countries = [
     countryCode: 'SC',
     currencyCode: 'SCR',
     currencyNameEn: 'Seychelles rupee',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '248',
     region: 'Africa',
@@ -2116,8 +1952,6 @@ export const countries = [
     countryCode: 'SG',
     currencyCode: 'SGD',
     currencyNameEn: 'Singapore dollar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '65',
     region: 'Asia & Pacific',
@@ -2129,8 +1963,7 @@ export const countries = [
     countryCode: 'SH',
     currencyCode: 'SHP',
     currencyNameEn: 'Saint Helena pound',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '290',
     region: 'Africa',
     flag: '🇸🇭',
@@ -2153,8 +1986,7 @@ export const countries = [
     countryCode: 'SJ',
     currencyCode: 'NOK',
     currencyNameEn: 'Norwegian krone',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '4779',
     region: 'Europe',
     flag: '🇸🇯',
@@ -2177,8 +2009,7 @@ export const countries = [
     countryCode: 'SL',
     currencyCode: 'SLL',
     currencyNameEn: 'Sierra Leonean leone',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '232',
     region: 'Africa',
     flag: '🇸🇱',
@@ -2202,8 +2033,6 @@ export const countries = [
     countryCode: 'SN',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '221',
     region: 'Africa',
@@ -2215,8 +2044,7 @@ export const countries = [
     countryCode: 'SO',
     currencyCode: 'SOS',
     currencyNameEn: 'Somali shilling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '252',
     region: 'Arab States',
     flag: '🇸🇴',
@@ -2227,8 +2055,6 @@ export const countries = [
     countryCode: 'SR',
     currencyCode: 'SRD',
     currencyNameEn: 'Surinamese dollar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '597',
     region: 'South/Latin America',
@@ -2240,8 +2066,7 @@ export const countries = [
     countryCode: 'SS',
     currencyCode: 'SSP',
     currencyNameEn: 'South Sudanese pound',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '211',
     region: 'Africa',
     flag: '🇸🇸',
@@ -2252,8 +2077,6 @@ export const countries = [
     countryCode: 'ST',
     currencyCode: 'STN',
     currencyNameEn: '',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '239',
     region: 'Africa',
@@ -2278,8 +2101,6 @@ export const countries = [
     countryCode: 'SX',
     currencyCode: 'ANG',
     currencyNameEn: 'Netherlands Antillean guilder',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '1721',
     region: 'Unknown',
@@ -2291,8 +2112,6 @@ export const countries = [
     countryCode: 'SY',
     currencyCode: 'SYP',
     currencyNameEn: 'Syrian pound',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '963',
     region: 'Asia & Pacific',
@@ -2304,8 +2123,6 @@ export const countries = [
     countryCode: 'TD',
     currencyCode: 'XAF',
     currencyNameEn: 'CFA franc BEAC',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '235',
     region: 'Africa',
@@ -2317,8 +2134,6 @@ export const countries = [
     countryCode: 'TG',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '228',
     region: 'Africa',
@@ -2330,8 +2145,7 @@ export const countries = [
     countryCode: 'TH',
     currencyCode: 'THB',
     currencyNameEn: 'Thai baht',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '66',
     region: 'Asia & Pacific',
     flag: '🇹🇭',
@@ -2342,8 +2156,7 @@ export const countries = [
     countryCode: 'TJ',
     currencyCode: 'TJS',
     currencyNameEn: 'Tajikistani somoni',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '992',
     region: 'Asia & Pacific',
     flag: '🇹🇯',
@@ -2354,8 +2167,7 @@ export const countries = [
     countryCode: 'TK',
     currencyCode: 'NZD',
     currencyNameEn: 'New Zealand dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '690',
     region: 'Asia & Pacific',
     flag: '🇹🇰',
@@ -2366,8 +2178,6 @@ export const countries = [
     countryCode: 'TL',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '670',
     region: 'Asia & Pacific',
@@ -2379,8 +2189,7 @@ export const countries = [
     countryCode: 'TM',
     currencyCode: 'TMT',
     currencyNameEn: 'Turkmenistan manat',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '993',
     region: 'Asia & Pacific',
     flag: '🇹🇲',
@@ -2391,8 +2200,6 @@ export const countries = [
     countryCode: 'TN',
     currencyCode: 'TND',
     currencyNameEn: 'Tunisian dinar',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '216',
     region: 'Arab States',
@@ -2404,8 +2211,7 @@ export const countries = [
     countryCode: 'TO',
     currencyCode: 'TOP',
     currencyNameEn: 'Tongan paʻanga',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '676',
     region: 'Asia & Pacific',
     flag: '🇹🇴',
@@ -2428,8 +2234,7 @@ export const countries = [
     countryCode: 'TT',
     currencyCode: 'TTD',
     currencyNameEn: 'Trinidad and Tobago dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '868',
     region: 'South/Latin America',
     flag: '🇹🇹',
@@ -2440,8 +2245,7 @@ export const countries = [
     countryCode: 'TV',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '688',
     region: 'Asia & Pacific',
     flag: '🇹🇻',
@@ -2452,8 +2256,7 @@ export const countries = [
     countryCode: 'TZ',
     currencyCode: 'TZS',
     currencyNameEn: 'Tanzanian shilling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '255',
     region: 'Africa',
     flag: '🇹🇿',
@@ -2476,8 +2279,7 @@ export const countries = [
     countryCode: 'UG',
     currencyCode: 'UGX',
     currencyNameEn: 'Ugandan shilling',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '256',
     region: 'Africa',
     flag: '🇺🇬',
@@ -2525,8 +2327,7 @@ export const countries = [
     countryCode: 'VC',
     currencyCode: 'XCD',
     currencyNameEn: 'East Caribbean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1784',
     region: 'South/Latin America',
     flag: '🇻🇨',
@@ -2550,8 +2351,7 @@ export const countries = [
     countryCode: 'VG',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1284',
     region: 'South/Latin America',
     flag: '🇻🇬',
@@ -2562,8 +2362,7 @@ export const countries = [
     countryCode: 'VI',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1340',
     region: 'South/Latin America',
     flag: '🇻🇮',
@@ -2574,8 +2373,7 @@ export const countries = [
     countryCode: 'VN',
     currencyCode: 'VND',
     currencyNameEn: 'Vietnamese đồng',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '84',
     region: 'Asia & Pacific',
     flag: '🇻🇳',
@@ -2586,8 +2384,7 @@ export const countries = [
     countryCode: 'VU',
     currencyCode: 'VUV',
     currencyNameEn: 'Vanuatu vatu',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '678',
     region: 'Asia & Pacific',
     flag: '🇻🇺',
@@ -2598,8 +2395,6 @@ export const countries = [
     countryCode: 'WF',
     currencyCode: 'XPF',
     currencyNameEn: 'CFP franc (franc Pacifique)',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '681',
     region: 'Asia & Pacific',
@@ -2611,8 +2406,7 @@ export const countries = [
     countryCode: 'WS',
     currencyCode: 'WST',
     currencyNameEn: 'Samoan tala',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '685',
     region: 'Asia & Pacific',
     flag: '🇼🇸',
@@ -2623,8 +2417,6 @@ export const countries = [
     countryCode: 'YE',
     currencyCode: 'YER',
     currencyNameEn: 'Yemeni rial',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '967',
     region: 'Arab States',
@@ -2636,8 +2428,6 @@ export const countries = [
     countryCode: 'YT',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '262',
     region: 'Africa',
@@ -2649,8 +2439,7 @@ export const countries = [
     countryCode: 'ZA',
     currencyCode: 'ZAR',
     currencyNameEn: 'South African rand',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '27',
     region: 'Africa',
     flag: '🇿🇦',
@@ -2661,8 +2450,7 @@ export const countries = [
     countryCode: 'ZM',
     currencyCode: 'ZMW',
     currencyNameEn: 'Zambian kwacha',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '260',
     region: 'Africa',
     flag: '🇿🇲',
@@ -2673,8 +2461,7 @@ export const countries = [
     countryCode: 'ZW',
     currencyCode: 'ZWL',
     currencyNameEn: 'Zimbabwean dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '263',
     region: 'Africa',
     flag: '🇿🇼',
@@ -2685,8 +2472,7 @@ export const countries = [
     countryCode: 'SZ',
     currencyCode: 'SZL',
     currencyNameEn: 'Swazi lilangeni',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '268',
     region: 'Africa',
     flag: '🇸🇿',
@@ -2697,8 +2483,7 @@ export const countries = [
     countryCode: 'MK',
     currencyCode: 'MKD',
     currencyNameEn: 'Macedonian denar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '389',
     region: 'Europe',
     flag: '🇲🇰',
@@ -2734,8 +2519,6 @@ export const countries = [
     countryCode: 'AE',
     currencyCode: 'AED',
     currencyNameEn: 'United Arab Emirates dirham',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '971',
     region: 'Arab States',
@@ -2747,8 +2530,7 @@ export const countries = [
     countryCode: 'MD',
     currencyCode: 'MDL',
     currencyNameEn: 'Moldovan leu',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '373',
     region: 'Europe',
     flag: '🇲🇩',
@@ -2759,8 +2541,7 @@ export const countries = [
     countryCode: 'GM',
     currencyCode: 'GMD',
     currencyNameEn: 'Gambian dalasi',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '220',
     region: 'Africa',
     flag: '🇬🇲',
@@ -2784,8 +2565,6 @@ export const countries = [
     countryCode: 'SD',
     currencyCode: 'SDG',
     currencyNameEn: 'Sudanese pound',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '249',
     region: 'Arab States',
@@ -2797,8 +2576,7 @@ export const countries = [
     countryCode: 'LA',
     currencyCode: 'LAK',
     currencyNameEn: 'Lao kip',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '856',
     region: 'Asia & Pacific',
     flag: '🇱🇦',
@@ -2809,8 +2587,7 @@ export const countries = [
     countryCode: 'TW',
     currencyCode: 'TWD',
     currencyNameEn: 'New Taiwan dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '886',
     region: 'Asia & Pacific',
     flag: '🇹🇼',
@@ -2821,8 +2598,6 @@ export const countries = [
     countryCode: 'CG',
     currencyCode: 'XAF',
     currencyNameEn: 'CFA franc BEAC',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '242',
     region: 'Africa',
@@ -2858,8 +2633,6 @@ export const countries = [
     countryCode: 'NE',
     currencyCode: 'XOF',
     currencyNameEn: 'CFA franc BCEAO',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '227',
     region: 'Africa',
@@ -2871,8 +2644,6 @@ export const countries = [
     countryCode: 'CD',
     currencyCode: 'CDF',
     currencyNameEn: 'Congolese franc',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '243',
     region: 'Africa',
@@ -2884,8 +2655,7 @@ export const countries = [
     countryCode: 'BS',
     currencyCode: 'BSD',
     currencyNameEn: 'Bahamian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1 242',
     region: 'Caribbean',
     flag: '🇧🇸',
@@ -2896,8 +2666,7 @@ export const countries = [
     countryCode: 'CC',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '61 891',
     region: 'Australia',
     flag: '🇨🇨',
@@ -2908,8 +2677,6 @@ export const countries = [
     countryCode: 'CF',
     currencyCode: 'XAF',
     currencyNameEn: 'Central African CFA',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '236',
     region: 'Africa',
@@ -2921,8 +2688,7 @@ export const countries = [
     countryCode: 'CK',
     currencyCode: 'NZD',
     currencyNameEn: 'New Zealand dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '682',
     region: 'South Pacific Ocean',
     flag: '🇨🇰',
@@ -2933,8 +2699,7 @@ export const countries = [
     countryCode: 'FK',
     currencyCode: 'FKP',
     currencyNameEn: 'Falklands pound',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '500',
     region: 'South Atlantic Ocean',
     flag: '🇫🇰',
@@ -2945,8 +2710,6 @@ export const countries = [
     countryCode: 'FO',
     currencyCode: 'DKK',
     currencyNameEn: 'Faroese króna',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '298',
     region: 'Europe',
@@ -2958,8 +2721,7 @@ export const countries = [
     countryCode: 'HM',
     currencyCode: 'AUD',
     currencyNameEn: 'Australian dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '672',
     region: 'Indian Ocean',
     flag: '🇭🇲',
@@ -2970,8 +2732,7 @@ export const countries = [
     countryCode: 'IO',
     currencyCode: 'USD',
     currencyNameEn: 'United States Dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '246',
     region: 'Indian Ocean',
     flag: '🇮🇴',
@@ -2982,8 +2743,6 @@ export const countries = [
     countryCode: 'KM',
     currencyCode: 'KMF',
     currencyNameEn: 'Comorian franc',
-    tinType: '',
-    tinName: '',
 
     countryCallingCode: '269',
     region: 'Indian Ocean',
@@ -2995,8 +2754,7 @@ export const countries = [
     countryCode: 'KY',
     currencyCode: 'KYD',
     currencyNameEn: 'Cayman Islands dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1 345',
     region: 'Caribbean Sea',
     flag: '🇰🇾',
@@ -3007,8 +2765,7 @@ export const countries = [
     countryCode: 'MH',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '692',
     region: 'Pacific Ocean',
     flag: '🇲🇭',
@@ -3019,8 +2776,7 @@ export const countries = [
     countryCode: 'MP',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1 670',
     region: 'Pacific Ocean',
     flag: '🇲🇵',
@@ -3031,8 +2787,7 @@ export const countries = [
     countryCode: 'TC',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '1 649',
     region: 'Atlantic Ocean',
     flag: '🇹🇨',
@@ -3043,8 +2798,7 @@ export const countries = [
     countryCode: 'TF',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '672',
     region: 'Indian Ocean',
     flag: '🇹🇫',
@@ -3055,8 +2809,7 @@ export const countries = [
     countryCode: 'UM',
     currencyCode: 'USD',
     currencyNameEn: 'United States dollar',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '246',
     region: 'Pacific Ocean',
     flag: '🇺🇲',
@@ -3067,8 +2820,7 @@ export const countries = [
     countryCode: 'VA',
     currencyCode: 'EUR',
     currencyNameEn: 'Euro',
-    tinType: '',
-    tinName: '',
+
     countryCallingCode: '39',
     region: 'Europe',
     flag: '🇻🇦',
