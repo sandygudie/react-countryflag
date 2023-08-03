@@ -24,9 +24,9 @@ yarn add -D react-countryname-flag
 ```js
 import { CountryFlag } from 'react-countryname-flag'
 
-<CountryFlag countryName={'Afghanistan'} style={{ fontSize: '10px' }} />
+<CountryFlag countryName={'Afghanistan'} style={{ fontSize: '30px' }} />
 
-  🇦🇫
+  <span style="font-size: 30px;">🇦🇫</span>
 ```
 <br/>
 
