@@ -7,7 +7,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandygudie/react-countryflag"
+    "url": "https://github.com/sandygudie/react-countryname-flag"
   },
   "peerDependencies": {
     "react": ">=16"
